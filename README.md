@@ -14,6 +14,13 @@ pip install streamlit pandas torch torch-geometric folium streamlit-folium gdelt
 streamlit run app.py
 ```
 
+RUN
+
+```Link
+Use this link: https://kgraph.streamlit.app/  
+```
+(start the app)
+
 ### 3. Use the app:
 - Select date range (1-3 days works best)
 - Click "Load Data"
