@@ -1,0 +1,13 @@
+streamlit
+folium
+streamlit-folium
+geopandas
+pandas
+numpy
+country_converter
+torch
+torch-geometric
+gdelt
+gdeltdoc
+requests
+lxml
