@@ -14,7 +14,7 @@ pip install streamlit pandas torch torch-geometric folium streamlit-folium gdelt
 streamlit run app.py
 ```
 
-RUN
+OR
 
 ```Link
 Use this link: https://kgraph.streamlit.app/  
